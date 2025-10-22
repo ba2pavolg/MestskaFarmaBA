@@ -1,0 +1,5 @@
+baseURL = "https://ba2pavolg.github.io/MestskaFarmaBA/"
+languageCode = "en-us"
+title = "Mestská Farma BA"
+theme = "cleanwhite"
+publishDir = "public"
